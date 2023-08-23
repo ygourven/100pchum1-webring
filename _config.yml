@@ -24,9 +24,9 @@ title: Le Webring 100 pour cent humain
 description: >- # this means to ignore newlines until "baseurl:"
   Le webring 100 pour cent humain est le carrefour des sites des éditeurs Web responsables qui ne génèrent pas leurs articles avec l IA
 
-baseurl: /100pchum1 # the subpath of your site, e.g. /blog
+baseurl: /100pchum1-webring # the subpath of your site, e.g. /blog
 url: https://ygourven.github.io
-repository: ygourven/100pchum1
+repository: ygourven/100pchum1-webring
 
 # END: You *can* customize the stuff below but you don't need to.
 
