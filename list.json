@@ -1,16 +1,16 @@
 {
   "sites": [
     {
-      "name": "Bill Hunt",
-      "url": "https://billhunt.dev/",
-      "author": "Bill Hunt <hello@billhunt.email>",
-      "rss": "https://billhunt.dev/feed.xml"
+      "name": "Visionary Marketing",
+      "url": "https://visionarymarketing.com/fr/",
+      "author": "Yann Gourvennec <contact@visionarymarketing.com>",
+      "rss": "https://visionarymarketing.com/fr/feed"
     },
     {
-      "name": "Somebody",
-      "url": "https://www.example.com/",
-      "author": "Somebody <somebody@example.com>",
-      "rss": "https://www.example.com/feed.xml"
+      "name": "Michael Tartar",
+      "url": "https://michaeltartar.com",
+      "author": "Michael Tartar <contact@dimmup.com>",
+      "rss": "https://michaeltartar.com/feed"
     }
   ]
 }
