@@ -4,31 +4,31 @@
       "name": "Visionary Marketing",
       "url": "https://visionarymarketing.com/fr/",
       "author": "Yann Gourvennec <contact@visionarymarketing.com>",
-      "rss": "https://visionarymarketing.com/fr/feed"
+      "rss": "https://visionarymarketing.com/fr/feed/"
     },
     {
       "name": "Thomas Gerbaud",
       "url": "https://www.alt-gr.tech/",
       "author": "Thomas Gerbaud <contact@alt-gr.tech>",
-      "rss": "www.alt-gr.tech/pageslug?format=rss"
+      "rss": "https://www.alt-gr.tech/blog-texts?format=rss"
     },
     {
       "name": "David Fayon",
       "url": "https://davidfayon.fr/",
       "author": "David Fayon <contact@davidfayon.fr>",
-      "rss": "https://davidfayon.fr/feed"
+      "rss": "https://davidfayon.fr/feed/"
     },
     {
       "name": "Kablages",
-      "url": "https://hervekabla.com/",
+      "url": "https://www.hervekabla.com/",
       "author": "Herve Kabla <contact@hervekabla.com>",
-      "rss": "https://hervekabla.com/feed"
+      "rss": "https://www.hervekabla.com/wordpress/feed/"
     },
     {
       "name": "Michael Tartar",
       "url": "https://michaeltartar.com",
       "author": "Michael Tartar <contact@dimmup.com>",
-      "rss": "https://michaeltartar.com/feed"
+      "rss": "https://michaeltartar.com/feed/"
     }
   ]
 }
