@@ -1,22 +1,22 @@
 {
   "sites": [
     {
-      "name": "Visionary Marketing",
-      "url": "https://visionarymarketing.com/fr/",
-      "author": "Yann Gourvennec <contact@visionarymarketing.com>",
-      "rss": "https://visionarymarketing.com/fr/feed/"
-    },
-    {
-      "name": "Thomas Gerbaud",
-      "url": "https://www.alt-gr.tech/",
-      "author": "Thomas Gerbaud <contact@alt-gr.tech>",
-      "rss": "https://www.alt-gr.tech/blog-texts?format=rss"
+      "name": "Frédéric Cavazza",
+      "url": "https://fredcavazza.net/",
+      "author": "Frédéric Cavazza <contact@fredcavazza.net>",
+      "rss": "https://fredcavazza.net/feed/"
     },
     {
       "name": "David Fayon",
       "url": "https://davidfayon.fr/",
       "author": "David Fayon <contact@davidfayon.fr>",
       "rss": "https://davidfayon.fr/feed/"
+    },
+	{
+      "name": "Thomas Gerbaud",
+      "url": "https://www.alt-gr.tech/",
+      "author": "Thomas Gerbaud <contact@alt-gr.tech>",
+      "rss": "https://www.alt-gr.tech/blog-texts?format=rss"
     },
     {
       "name": "Kablages",
@@ -25,10 +25,34 @@
       "rss": "https://www.hervekabla.com/wordpress/feed/"
     },
     {
+      "name": "Marketing is Dead",
+      "url": "http://consumerinsight.eu/",
+      "author": "François Laurent <contact@consumerinsight.eu>",
+      "rss": "http://consumerinsight.eu/feed/"
+    },
+    {
+      "name": "Mobility Partner",
+      "url": "https://mobilitypartner.fr/",
+      "author": "Jean-Marie Madoré <contact@mobilitypartner.fr>",
+      "rss": "https://mobilitypartner.fr/feed/"
+    },
+    {
       "name": "Michael Tartar",
       "url": "https://michaeltartar.com",
       "author": "Michael Tartar <contact@dimmup.com>",
       "rss": "https://michaeltartar.com/feed/"
+    },
+	{
+      "name": "Visionary Marketing",
+      "url": "https://visionarymarketing.com/fr/",
+      "author": "Yann Gourvennec <contact@visionarymarketing.com>",
+      "rss": "https://visionarymarketing.com/fr/feed/"
+    },
+    {
+      "name": "Zevillage",
+      "url": "https://zevillage.net/",
+      "author": "Xavier de Mazenod <contact@zevillage.net>",
+      "rss": "https://zevillage.net/feed/"
     }
   ]
 }
