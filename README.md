@@ -4,6 +4,9 @@ Webring Starter is a modern, simple webring that anyone can setup and use!
 
 In the early days of the World Wide Web, webrings were a popular way for people to connect through common interests. People used CGI scripts to run these, but today, a lot can be done with just a few lines of JavaScript on static websites.
 
+NB : parts of this website have been translated into French. 
+The footer has been modified to include a thumbnail of the webring logo and link to our ethics charter 
+
 ## Features
 
 * This starter site is built with Jekyll as a static site and can be run with GitHub Pages **for free**.
