@@ -1,34 +1,21 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <strong>Abonnement RSS</strong>
-        <p>
-          Il existe plusieurs façons de s'abonner aux mises à jour des membres du webring à l'aide de votre lecteur RSS.
-        </p>
-        <p>
-          La plus facile consiste à <a href="{{ '/feeds.opml' | absolute_url }}">choisir ce fichier OPML</a>. Plutôt que de télécharger ce fichier, les lecteurs RSS modernes devraient vous permettre de copier cette URL et de vous y abonner (généralement sous une rubrique telle que "Importation"), de sorte que lorsque de nouveaux membres s'inscrivent, ils sont automatiquement ajoutés à votre flux.
-        </p>
-        <p>
-          Vous pouvez également vous abonner à notre <a href="{{ '/feed.xml' | absolute_url}}">flux Atom directement</a>, mais notez que celui-ci n'affiche que les messages des membres des 30 derniers jours et qu'il est limité à 10 messages par membre.
-        </p>
-
+      <div class="footer-col"> <strong>Abonnement RSS</strong>
+        <p><a href="https://vismktg.info/chartehum1" target="_blank"><img src="https://visionarymarketing.com/wp-content/uploads/2023/06/contenu-100-pc-humain.jpg" align=right alt="charte du contenu 100 pour 100 humain" title="charte humaine"/></a>Il existe plusieurs façons de s'abonner aux mises à jour des membres du webring à l'aide de votre lecteur RSS.</p>
+        <p> La plus facile consiste à <a href="{{ '/feeds.opml' | absolute_url }}">choisir ce fichier OPML</a>. Plutôt que de télécharger ce fichier, les lecteurs RSS modernes devraient vous permettre de copier cette URL et de vous y abonner (généralement sous une rubrique telle que "Importation"), de sorte que lorsque de nouveaux membres s'inscrivent, ils sont automatiquement ajoutés à votre flux. </p>
+        <p> Vous pouvez également vous abonner à notre <a href="{{ '/feed.xml' | absolute_url}}">flux Atom directement</a>, mais notez que celui-ci n'affiche que les messages des membres des 30 derniers jours et qu'il est limité à 10 messages par membre. </p>
         {%- if site.author and site.author.name != 'GitHub User' %}
-          <ul class="contact-list">
-            {% if site.author.name -%}
-              <li class="p-name">{{ site.author.name | escape }}</li>
-            {% endif -%}
-            {% if site.author.email -%}
-              <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-            {%- endif %}
-          </ul>
-        {%- endif %}
-        </div>
+        <ul class="contact-list">
+          {% if site.author.name -%}
+          <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+        {%- endif %} </div>
     </div>
-
   </div>
-
 </footer>
