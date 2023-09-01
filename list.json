@@ -31,6 +31,12 @@
       "rss": "http://consumerinsight.eu/feed/"
     },
     {
+      "name": "Louis Naugès",
+      "url": "https://nauges.typepad.com/",
+      "author": "Louis Naugès <contact@nauges.typepad.com>",
+      "rss": "https://nauges.typepad.com/my_weblog/atom.xml/"
+    },
+    {
       "name": "Mobility Partner",
       "url": "https://mobilitypartner.fr/",
       "author": "Jean-Marie Madoré <contact@mobilitypartner.fr>",
