@@ -5,15 +5,15 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <strong>Subscribe</strong>
+        <strong>Abonnemenet RSS</strong>
         <p>
-          There are a few ways to subscribe to updates from webring members with your RSS reader.
+          Il existe plusieurs façons de s'abonner aux mises à jour des membres du webring à l'aide de votre lecteur RSS.
         </p>
         <p>
-          The easiest way is to <a href="{{ '/feeds.opml' | absolute_url }}">subscribe to this OPML file</a>. Rather than downloading this file, modern RSS readers <em>should</em> allow you to copy that url and subscribe to it (usually under a heading like "Import"), so when new members join they'll be added to your feed automatically.
+          La plus facile consiste à <a href="{{ '/feeds.opml' | absolute_url }}">choisir ce fichier OPML</a>. Plutôt que de télécharger ce fichier, les lecteurs RSS modernes devraient vous permettre de copier cette URL et de vous y abonner (généralement sous une rubrique telle que "Importation"), de sorte que lorsque de nouveaux membres s'inscrivent, ils sont automatiquement ajoutés à votre flux.
         </p>
         <p>
-          Otherwise, you can also subscribe to our <a href="{{ '/feed.xml' | absolute_url}}">Atom feed directly</a>, but note that that only shows the latest 30 days of posts from members, and has a limit of 10 posts per member.
+          Vous pouvez également vous abonner à notre <a href="{{ '/feed.xml' | absolute_url}}">flux Atom directement</a>, mais notez que celui-ci n'affiche que les messages des membres des 30 derniers jours et qu'il est limité à 10 messages par membre.
         </p>
 
         {%- if site.author and site.author.name != 'GitHub User' %}
