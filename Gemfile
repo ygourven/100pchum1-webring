@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.1.1"
 gem "webrick"
-gem "minima", github: "jekyll/minima"
+#gem "minima", github: "jekyll/minima"
+gem "Cayman Blog", github: "jekyll/jekyll-theme-cayman-blog"
 
 gem "feedjira"
 gem "json"
