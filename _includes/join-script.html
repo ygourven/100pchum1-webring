@@ -1,22 +1,22 @@
 <h3>For Self-Hosted Websites</h3>
 <p>
-  You can show the webring on your site by pasting the following html snippet wherever you want it to appear:
+  Vous pouvez afficher le webring sur votre site en collant l'extrait html suivant à l'endroit où vous souhaitez qu'il apparaisse :
 </p>
 
 <textarea class="code-snippet"><script src="{{ 'webring.js' | absolute_url }}"></script>
 <script>showWebring(true);</script></textarea>
 
 <p>
-  If you'd like to disable the default styles, you can use this snippet instead:
+  Si vous souhaitez désactiver les styles par défaut, vous pouvez utiliser cet extrait à la place :
 </p>
 
 <textarea class="code-snippet"><script src="{{ 'webring.js' | absolute_url }}"></script>
 <script>showWebring();</script></textarea>
 
-<h3>For Hosted Blogs</h3>
+<h3>Pour les blogs hébergés centralement (comme Wordpress.com)</h3>
 
 <p>
-  If you're using a service to host your blog which does not allow custom JavaScript, you can use a static version instead. Use the generator below to generate the html for your page:
+  Si vous utilisez un service d'hébergement pour votre blog qui n'autorise pas le JavaScript personnalisé, vous pouvez utiliser une version statique en lieu et place de la version dynamique. Utilisez le générateur ci-dessous pour générer le code html de votre page :
 </p>
 
 <form id="webring-generator" class="webring-form">
