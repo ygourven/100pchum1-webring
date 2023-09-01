@@ -7,16 +7,28 @@
       "rss": "https://fredcavazza.net/feed/"
     },
     {
+      "name": "Consumer Insight",
+      "url": "http://consumerinsight.eu/",
+      "author": "François Laurent <contact@consumerinsight.eu>",
+      "rss": "http://consumerinsight.eu/feed/"
+    },
+    {
       "name": "David Fayon",
       "url": "https://davidfayon.fr/",
       "author": "David Fayon <contact@davidfayon.fr>",
       "rss": "https://davidfayon.fr/feed/"
     },
-	{
+    {
       "name": "Thomas Gerbaud",
       "url": "https://www.alt-gr.tech/",
       "author": "Thomas Gerbaud <contact@alt-gr.tech>",
       "rss": "https://www.alt-gr.tech/blog-texts?format=rss"
+    },
+    {
+      "name": "Intotheminds",
+      "url": "https://www.intotheminds.com/",
+      "author": "Pierre-Nicolas Schwab <contact@intotheminds.com>",
+      "rss": "https://www.intotheminds.com/feed/"
     },
     {
       "name": "Kablages",
@@ -25,16 +37,16 @@
       "rss": "https://www.hervekabla.com/wordpress/feed/"
     },
     {
-      "name": "Consumer Insight",
-      "url": "http://consumerinsight.eu/",
-      "author": "François Laurent <contact@consumerinsight.eu>",
-      "rss": "http://consumerinsight.eu/feed/"
-    },
-    {
       "name": "Louis Naugès",
       "url": "https://nauges.typepad.com/",
       "author": "Louis Naugès <contact@nauges.typepad.com>",
       "rss": "https://nauges.typepad.com/my_weblog/atom.xml/"
+    },
+    {
+      "name": "Marketing PME",
+      "url": "https://www.marketing-pme.fr/",
+      "author": "Serge-Henri Saint Michel <contact@marketing-pme.fr>",
+      "rss": "https://www.marketing-pme.fr/feed/"
     },
     {
       "name": "Mobility Partner",
