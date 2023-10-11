@@ -1,6 +1,36 @@
 {
   "sites": [
     {
+      "name": "Jérôme Bouteiller",
+      "url": "https://www.ecranmobile.fr/",
+      "author": "Jérôme Bouteiller <redaction@ecranmobile.fr>",
+      "rss": "https://www.ecranmobile.fr/xml/syndication.rss"
+    },
+    {
+      "name": "Emilie Marquois",
+      "url": "https://www.emiliemarquois.com/",
+      "author": "Emilie Marquois <emilie.marquois@gmail.com>",
+      "rss": "https://www.emiliemarquois.com/feed/"
+    },
+    {
+      "name": "Céline Madoré",
+      "url": "https://adorem.fr/blogue/",
+      "author": "Céline Madoré <celine@adorem.fr>",
+      "rss": "https://adorem.fr/blogue/feed/"
+    },
+    {
+      "name": "Catherine Fourmond",
+      "url": "https://crescentiacrea.fr/",
+      "author": "Catherine Fourmond <crescentia.crea@gmail.com>",
+      "rss": "https://crescentiacrea.fr/feed/"
+    },
+    {
+      "name": "Jean-Marie Madoré",
+      "url": "https://mobilitypartner.fr/",
+      "author": "Jean-Marie Madoré <jean-marie.madore@mobilitypartner.fr>",
+      "rss": "https://mobilitypartner.fr/feed/"
+    },
+    {
       "name": "Frédéric Cavazza",
       "url": "https://fredcavazza.net/",
       "author": "Frédéric Cavazza <contact@fredcavazza.net>",
